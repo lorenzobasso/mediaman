@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "mediaman-api"
+version = "0.1.0"
+description = ""
+authors = ["lorenzobasso <lorenzobasso98@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.78.0"
+SQLAlchemy = "1.4.35"
+sqlmodel = "^0.0.6"
+uvicorn = "^0.18.2"
+pytest-watch = "^4.2.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.6.0"
+flake8 = "^4.0.1"
+pytest = "^7.1.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
