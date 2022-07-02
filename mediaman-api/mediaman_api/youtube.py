@@ -20,7 +20,7 @@ def get_api_key():
     return load_json(secrets_file)["ytApiKey"]
 
 
-def create_yt_session() -> googleapiclient.discovery.Resource:
+def yt_session() -> googleapiclient.discovery.Resource:
     api = "youtube"
     version = "v3"
 

@@ -2,7 +2,7 @@ from unittest.mock import MagicMock, patch
 from pytest import fixture
 
 from mediaman_api.youtube import (
-    create_yt_session,
+    yt_session,
     get_api_key,
     get_channel_info,
     secrets_file,
@@ -37,7 +37,7 @@ class TestCreateYtSession:
 
     def test_it_creates_the_correct_session(self, key):
         with patch("mediaman_api.youtube.googleapiclient") as api:
-            create_yt_session()
+            yt_session()
 
             api.discovery.build.assert_called_with(
                 "youtube", "v3", developerKey="api key"
