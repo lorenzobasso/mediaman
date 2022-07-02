@@ -1,3 +1,7 @@
+from unittest.mock import MagicMock, patch
+from pytest import fixture
+from sqlmodel import create_engine, Session, SQLModel
+
 from tests import data
 from mediaman_api.models import channel
 
@@ -44,3 +48,102 @@ class TestParseChannel:
         )
 
         assert result == expected
+
+
+class TestGet:
+    @fixture
+    def db(self):
+        yield MagicMock()
+
+    def test_it_gets_the_correct_channel(self, db):
+        id = "channel id"
+
+        channel.get(db, id)
+
+        db.get.assert_called_with(channel.Channel, id)
+
+
+class TestPut:
+    @fixture
+    def db(self):
+        yield MagicMock()
+
+    @fixture
+    def data(self):
+        yield channel.parse(data.channel_info)
+
+    def test_it_stored_data_to_db(self, db, data):
+        channel.put(db, data)
+
+        db.add.assert_called_with(data)
+
+    def test_it_refreshes_the_instance(self, db, data):
+        channel.put(db, data)
+
+        db.refresh.assert_called_with(data)
+
+    def test_it_commits_the_changes(self, db, data):
+        channel.put(db, data)
+
+        db.commit.assert_called()
+
+    def test_it_returns_the_data(self, db, data):
+        result = channel.put(db, data)
+
+        assert result == data
+
+
+class TestPatch:
+    id = "channel id"
+    data = {"title": "some new title", "description": "another description"}
+
+    @fixture
+    def new_data(self):
+        base = channel.parse(data.channel_info)
+        base.title = "some new title"
+        base.description = "another description"
+
+        yield base
+
+    @fixture
+    def db(self):
+        yield MagicMock()
+
+    @fixture
+    def get(self):
+        with patch("mediaman_api.models.channel.get") as mock:
+            yield mock
+
+    @fixture
+    def put(self):
+        with patch("mediaman_api.models.channel.put") as mock:
+            yield mock
+
+    def test_it_gets_existing_instances_of_the_data(self, db, get, new_data):
+        channel.patch(db, new_data)
+
+        get.assert_called_with(db, new_data.id)
+
+    def test_it_puts_the_updated_values_(self, db, get, put, new_data):
+        get.return_value = new_data
+
+        channel.patch(db, new_data)
+
+        put.assert_called_with(db, new_data)
+
+    def test_it_does_not_override_previous_non_default_values(
+        self, db, new_data, get, put
+    ):
+        base = channel.parse(data.channel_info)
+        base.following = True
+        get.return_value = base
+
+        channel.patch(db, new_data)
+
+        new_data.following = True
+        put.assert_called_with(db, new_data)
+
+    def xtest_it_returns_the_updated_value(self, db, get, new_data):
+        get.return_value = new_data
+
+        assert channel.patch(db, new_data) == new_data

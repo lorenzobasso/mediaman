@@ -1,5 +1,5 @@
-from typing import List, Optional
-from sqlmodel import SQLModel, Field, Relationship
+from typing import Dict, List, Optional
+from sqlmodel import SQLModel, Field, Relationship, Session
 
 
 class Channel(SQLModel, table=True):
@@ -30,7 +30,7 @@ class ChannelThumbnail(SQLModel, table=True):
     channel: Channel = Relationship(back_populates="thumbnails")
 
 
-def parse_thumbnail(size, thumbnail):
+def parse_thumbnail(size, thumbnail) -> ChannelThumbnail:
     return ChannelThumbnail(
         size=size,
         url=thumbnail["url"],
@@ -39,11 +39,11 @@ def parse_thumbnail(size, thumbnail):
     )
 
 
-def parse_thumbnails(thumbnails):
+def parse_thumbnails(thumbnails) -> List[ChannelThumbnail]:
     return [parse_thumbnail(size, t) for size, t in thumbnails.items()]
 
 
-def parse(channel):
+def parse(channel) -> Channel:
     snippet = channel["snippet"]
     stats = channel["statistics"]
 
@@ -61,3 +61,29 @@ def parse(channel):
         banner=channel["brandingSettings"]["image"]["bannerExternalUrl"],
         thumbnails=parse_thumbnails(snippet["thumbnails"]),
     )
+
+
+def get(db: Session, id: str):
+    return db.get(Channel, id)
+
+
+def put(db: Session, channel: Channel):
+    db.add(channel)
+    db.refresh(channel)
+    db.commit()
+
+    return channel
+
+
+def patch(db: Session, new_data: Channel):
+    db_channel = get(db, new_data.id)
+
+    if db_channel is None:
+        db_channel = new_data
+    else:
+        new_data_dict = new_data.dict(exclude_defaults=True)
+        for attr, val in new_data_dict.items():
+            print(attr)
+            setattr(db_channel, attr, val)
+
+    return put(db, db_channel)
