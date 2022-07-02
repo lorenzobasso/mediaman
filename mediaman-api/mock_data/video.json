@@ -1,0 +1,54 @@
+{
+  "kind": "youtube#playlistItem",
+  "etag": "aKfRLkbic1G1-Yf_ABrHTPsWkV4",
+  "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLng3X1dvOUZqMTdB",
+  "snippet": {
+    "publishedAt": "2022-06-28T23:45:28Z",
+    "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+    "title": "Building a Road for our Forever Home! It's happening!",
+    "description": "With utilities plowed in its time for a road to our forever home site. Can't wait to make this happen! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Paving New Roads\n3:52 Prepping The Mower\n7:08 Bearing Replacement\n10:31 A Storm Is Coming!",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Welker Farms",
+    "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "x7_Wo9Fj17A"
+    },
+    "videoOwnerChannelTitle": "Welker Farms",
+    "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+  },
+  "contentDetails": {
+    "videoId": "x7_Wo9Fj17A",
+    "videoPublishedAt": "2022-06-28T23:45:28Z"
+  },
+  "status": {
+    "privacyStatus": "public"
+  }
+}

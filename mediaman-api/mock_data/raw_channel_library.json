@@ -1,0 +1,2576 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "TLZzCCFs_wuia36G_uTp1N_O8mw",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aKfRLkbic1G1-Yf_ABrHTPsWkV4",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLng3X1dvOUZqMTdB",
+      "snippet": {
+        "publishedAt": "2022-06-28T23:45:28Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Building a Road for our Forever Home! It's happening!",
+        "description": "With utilities plowed in its time for a road to our forever home site. Can't wait to make this happen! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Paving New Roads\n3:52 Prepping The Mower\n7:08 Bearing Replacement\n10:31 A Storm Is Coming!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x7_Wo9Fj17A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x7_Wo9Fj17A"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "x7_Wo9Fj17A",
+        "videoPublishedAt": "2022-06-28T23:45:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Zb2ixMWQW2pV5674cOBmAGfLyI",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLndRZXMteFR6TzAw",
+      "snippet": {
+        "publishedAt": "2022-06-25T23:58:15Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Crop Update! And the verdict is???",
+        "description": "Crop scouting! And the results are so so. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Bob's Thoughts\n4:36 Crop Tour\n13:42 Barn Cleaning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQes-xTzO00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQes-xTzO00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQes-xTzO00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wQes-xTzO00"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "wQes-xTzO00",
+        "videoPublishedAt": "2022-06-25T23:58:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PVuW9zse-zhW74r1466MvaVaZpI",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmx2TE1tRmVsMmhJ",
+      "snippet": {
+        "publishedAt": "2022-06-23T21:57:27Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "If only Grandpa could see the Bin Yard now",
+        "description": "Updates to the lake house, old reservoirs being repaired, new Westeel grain bin going up, and some shiny new paint on the hoppers! \n\nLAKE House AIRBNB & VRBO:\n\nhttps://www.airbnb.com/wishlists/v/768783981?s=42\n\nhttps://www.vrbo.com/1979751?unitId=2544268&adultsCount=1&childrenCount=0&noDates=true\n\n\n\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Lake House Tour\n4:28 Reservoir Dig\n8:27 Westeel Bins",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvLMmFel2hI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvLMmFel2hI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvLMmFel2hI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lvLMmFel2hI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lvLMmFel2hI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lvLMmFel2hI"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "lvLMmFel2hI",
+        "videoPublishedAt": "2022-06-23T21:57:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qXvcrgYcQDo-23-BWBuqB9xFito",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkxXRUg1OU5jOWln",
+      "snippet": {
+        "publishedAt": "2022-06-19T22:05:03Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Farm Hard, Pun Harder! | Happy Father's Day",
+        "description": "Happy Father's day to the hardest working man I know. If he had a motto it'd be \"farm hard, pun harder!\" Through blood sweat and tears he has built on a legacy that his kids and now grandchildren can thoroughly enjoy. At the end of they day his ultimate calling is to give Coby tractor rides 🐶 🚜. \n\nHappy Father's Day!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LWEH59Nc9ig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LWEH59Nc9ig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LWEH59Nc9ig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LWEH59Nc9ig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LWEH59Nc9ig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LWEH59Nc9ig"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "LWEH59Nc9ig",
+        "videoPublishedAt": "2022-06-19T22:05:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9W1Otej-xvViAaTs0133N3CYHAg",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkFPVHBUbmxlOG40",
+      "snippet": {
+        "publishedAt": "2022-06-19T01:37:08Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "DAY or NIGHT the WEEDS will FRIGHT #4450",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AOTpTnle8n4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AOTpTnle8n4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOTpTnle8n4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AOTpTnle8n4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AOTpTnle8n4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AOTpTnle8n4"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "AOTpTnle8n4",
+        "videoPublishedAt": "2022-06-19T01:37:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O4MYvhQYUfIfhphGmxtAfyJGEuw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLk91NEdaTnhuekVj",
+      "snippet": {
+        "publishedAt": "2022-06-18T21:49:20Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Until Next Time Bud",
+        "description": "Save 20% on your system and your first month is free when you sign up for interactive monitoring. Visit https://SimpliSafe.com/WELKERFARMS to learn more! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 What're We Doing?\n3:05 Leftover Fertilizer\n10:11 Mix-Mate Setup\n16:15 Boom Issues",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ou4GZNxnzEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ou4GZNxnzEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ou4GZNxnzEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ou4GZNxnzEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ou4GZNxnzEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ou4GZNxnzEc"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "Ou4GZNxnzEc",
+        "videoPublishedAt": "2022-06-18T21:49:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZeXoF-ooCyQs19CO1XNR77KA6fw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmZUbTBkNHlSZ0Q0",
+      "snippet": {
+        "publishedAt": "2022-06-18T00:01:39Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "🔴LIVE! The CASE IH 4450 Patriot Is Here!",
+        "description": "Let's go for a spin! CASE IH 4450 PATRIOT SPRAYER \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fTm0d4yRgD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fTm0d4yRgD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fTm0d4yRgD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fTm0d4yRgD4"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "fTm0d4yRgD4",
+        "videoPublishedAt": "2022-06-18T00:01:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7je_La7ftqvu2ZjHX_C0ABnKl3M",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjM2a09KYl9WSWRr",
+      "snippet": {
+        "publishedAt": "2022-06-14T23:54:58Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Leg Arms is ADDICTED to DESTROYING stuff",
+        "description": "Bin yard continues to transform! Out with some old concrete structures and in with new bins!\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Bin Pad Demo\n3:03 Wreckage Cleanup\n4:53 Patching A Bin\n8:18 Custom Jack\n10:19 Does It Work?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/36kOJb_VIdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/36kOJb_VIdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/36kOJb_VIdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "36kOJb_VIdk"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "36kOJb_VIdk",
+        "videoPublishedAt": "2022-06-14T23:54:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zeF36WITCnUSpsDbhbXpdHD6kvY",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkF5ckZhS2NmN1Vr",
+      "snippet": {
+        "publishedAt": "2022-06-12T20:50:21Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Getting Things Done With BOB'S BIG BUD BIN BOOM!",
+        "description": "Moving bins! Slowly but surely we'll have this yard ready for the big year! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Spring Cleaning\n1:23 Bob's Big Bud Bin Boom\n4:46 Raising Bin Elevation\n8:24 Moving Another Bin\n11:23 Just One More!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AyrFaKcf7Uk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AyrFaKcf7Uk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AyrFaKcf7Uk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AyrFaKcf7Uk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AyrFaKcf7Uk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AyrFaKcf7Uk"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "AyrFaKcf7Uk",
+        "videoPublishedAt": "2022-06-12T20:50:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MMOBkowL47dkv63fe93GtUnHapI",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkowY2IyZ1lfeGpZ",
+      "snippet": {
+        "publishedAt": "2022-06-10T00:07:24Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "We're FINISHED!",
+        "description": "We're done!! Acres are seeded and now we begin the wait...for rain. It's horribly dry and the outlook isn't good. But all we can do is push on! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Back In The Field\n1:50 Issues Already?\n7:54 The Final Day\n14:32 Season Overview\n16:42 Remembering Libby Grass",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J0cb2gY_xjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J0cb2gY_xjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0cb2gY_xjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J0cb2gY_xjY"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "J0cb2gY_xjY",
+        "videoPublishedAt": "2022-06-10T00:07:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HOGESJkCC_1SRMFuu1GR3C90eVw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLlRLZmx0d3hhT1B3",
+      "snippet": {
+        "publishedAt": "2022-06-02T00:44:21Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "BIG BUD 600/50 Engine Smoking! Where did all the coolent go???",
+        "description": "Wrapping up spring wheat and bam...engine trouble. Hard to say what is wrong without opening it up. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n“Singing Scaffold (2)” by Benboncan, used under CC BY 4.0 / Bass Boosted\n(https://freesound.org/s/109096/ , https://freesound.org/people/Benboncan/)\n\n0:00 The Content Continues!\n2:23 Big Bud Problem\n8:25 We Had A Talk...\n14:32 An Experiment\n19:21 Problem Solved!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TKfltwxaOPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TKfltwxaOPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TKfltwxaOPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TKfltwxaOPw"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "TKfltwxaOPw",
+        "videoPublishedAt": "2022-06-02T00:44:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z0otO7NuxMw8oDMMtTSC6j8kYeU",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnZqcms2ZldFVnRv",
+      "snippet": {
+        "publishedAt": "2022-05-30T23:26:19Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "1978 525hp BIG BUD Pulling 70ft?",
+        "description": "Alright champ, it's your turn! You've earned your keep but why stop there? \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Series 2 Returns\n2:24 Spray Trailer Fix\n5:56 Getting Fertilizer\n9:24 The Hailed Field\n12:39 Field Reservoir\n15:16 Almost A Week...\n16:44 Time To Fill\n19:00 Solution Found!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vjrk6fWEVto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vjrk6fWEVto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjrk6fWEVto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vjrk6fWEVto"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "vjrk6fWEVto",
+        "videoPublishedAt": "2022-05-30T23:26:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0ZAPJWCLupQBIhWnwqxTwpRjcXw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnEtZkp5QWg2ZEo0",
+      "snippet": {
+        "publishedAt": "2022-05-25T23:24:11Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Fueled & Ready! Let's Go!",
+        "description": "Climb aboard as we take the CVX 540 Steiger to the fields to plant spring wheat. Both rigs are running! Let's get this spring wheat in the ground! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 A Week Of Seeding\n1:00 Steiger 450 Overview\n12:13 AFS Pro 1200\n17:03 It's Legarm's Turn!\n18:45 Two Hours Left...\n22:06 Series 2 Swap",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q-fJyAh6dJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q-fJyAh6dJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q-fJyAh6dJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q-fJyAh6dJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q-fJyAh6dJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q-fJyAh6dJ4"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "q-fJyAh6dJ4",
+        "videoPublishedAt": "2022-05-25T23:24:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oZgxRZjpk4AvxKICFVWwkHfu5sQ",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnBpRFIxMGFlZ013",
+      "snippet": {
+        "publishedAt": "2022-05-20T21:58:40Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "This CROP could be worth a FORTUNE...if it grows...",
+        "description": "Save 20% on your system and your first month is free when you  sign up for interactive monitoring. Visit  https://SimpliSafe.com/WELKERFARMS TO learn more!\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Cinematic Seeding\n1:37 Last Pea Field\n3:30 Not The Shop!\n5:13 Spring Wheat\n6:24 Seeding Up-Close\n8:39 Tandem Startup\n13:06 The Next Load",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/piDR10aegMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/piDR10aegMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/piDR10aegMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "piDR10aegMw"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "piDR10aegMw",
+        "videoPublishedAt": "2022-05-20T21:58:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wwy-yFSM24S-l1xRPgKq9yBjMwQ",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjRLTHpDTnNUZlgw",
+      "snippet": {
+        "publishedAt": "2022-05-14T19:16:42Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "70 more FEET of seeding AWESOMENESS!! | oh hey winter...you're back.",
+        "description": "We tracked down a second used CASE IH 700 FLEX HOE 70ft to match our other one. With 140ft of drills we should be able to maximize our time and bust out big acres! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Cinematic Intro\n1:16 Shop w/ Bob\n4:26 Big Bud Leaks\n5:38 New Toolbar\n11:13 Leak Inspection",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KLzCNsTfX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KLzCNsTfX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KLzCNsTfX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4KLzCNsTfX0"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "4KLzCNsTfX0",
+        "videoPublishedAt": "2022-05-14T19:16:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MvrKBI4VRNg159ErI089BnnACNc",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLm1SMDZ6RERSeGlV",
+      "snippet": {
+        "publishedAt": "2022-05-07T21:02:23Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "UNLEASHED Sprayer & ANSWERED Prayer!!",
+        "description": "Winter is back! Roll and spray before the cold stays! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 One Bud Fits All!\n1:07 Big Brute Awakens\n4:54 Cinematic Spraying\n7:43 Surprise Moisture\n9:51 One Last Load",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mR06zDDRxiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mR06zDDRxiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mR06zDDRxiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mR06zDDRxiU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mR06zDDRxiU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mR06zDDRxiU"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "mR06zDDRxiU",
+        "videoPublishedAt": "2022-05-07T21:02:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qRFSa4u446LjTaR3Eyr1p2A9xCU",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnc5UXpTSFd3dkhR",
+      "snippet": {
+        "publishedAt": "2022-05-04T21:41:42Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "BIG BUD Tractor MASHING Fields!",
+        "description": "Rock'n & Roll'n! Thanks to Mandako for letting us give their massive 85ft land roller a spin on our land. It sure beats our 50ft Mandako! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\n--------------\nlevibyersdude@gmail.com\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Cinematic Intro\n0:55 Rough Start\n4:02 AC Compressor Fix\n8:14 He Broke What?!?\n12:05 Purpose of Rolling\n14:15 AFS w/ Mandako",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9QzSHWwvHQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9QzSHWwvHQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9QzSHWwvHQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w9QzSHWwvHQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w9QzSHWwvHQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w9QzSHWwvHQ"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "w9QzSHWwvHQ",
+        "videoPublishedAt": "2022-05-04T21:41:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jt5YfExM_yl9Hbwgq2msxMMD6iQ",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLldnRGVScU1aY2ow",
+      "snippet": {
+        "publishedAt": "2022-04-28T23:15:12Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Seed in the DUST your new BIN will BUST!",
+        "description": "More Westeel bin storage! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Seeding Montage\n1:32 Moving Materials\n5:41 Dog Meets Badger\n6:46 New Bin Foundation\n11:12 Construction Begins\n14:44 Big Bud Oil Change",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WgDeRqMZcj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WgDeRqMZcj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WgDeRqMZcj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WgDeRqMZcj0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WgDeRqMZcj0"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "WgDeRqMZcj0",
+        "videoPublishedAt": "2022-04-28T23:15:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ptb6k0N9RT3TqdWlSW4nqrl3hSQ",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmx5dTRvbElzUmdR",
+      "snippet": {
+        "publishedAt": "2022-04-26T21:20:23Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "🔴LIVE! From inside a 540 CVX Steiger seeding spring wheat!",
+        "description": "-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lyu4olIsRgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lyu4olIsRgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lyu4olIsRgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lyu4olIsRgQ"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "lyu4olIsRgQ",
+        "videoPublishedAt": "2022-04-26T21:20:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V6F6KzFhLwtQi4OcgYxayIFyITk",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkFfYnNVR013NFhz",
+      "snippet": {
+        "publishedAt": "2022-04-25T22:42:35Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "The BIG BUD Engine is SMOKING!",
+        "description": "Head to https://getsunday.com/WELKERFARMS to check out Sunday and get 20% off Smart Lawn Plans! #sundayparter #sunday #lawncare\n\n\nWrapping up what's left of the pea acres. Already seeing some green here and there in the field as plants wake up after a long winter season. We spend vasts amounts of time growing our crops but sadly at home our lawns do not get the same attention. Probably because lawns can't make money 😂. But really I would like to change this and have a healthy yard where the grass is thick and dark green. It's time to give Sunday a try, improvements here we come! \n\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Starting Trucks\n2:30 What're We Running?\n4:39 Life Of A Bud Owner\n7:31 Stuff Keeps Breaking...\n12:19 Lawn TLC\n14:10 Clutch & Blockage\n17:36 Original Homestead\n22:47 Nick Broke It!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A_bsUGMw4Xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A_bsUGMw4Xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A_bsUGMw4Xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A_bsUGMw4Xs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A_bsUGMw4Xs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A_bsUGMw4Xs"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "A_bsUGMw4Xs",
+        "videoPublishedAt": "2022-04-25T22:42:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wizAZpWlNDr_ZOVoQkLZ8KYwJ3U",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmRuV3dtZnBLTVc4",
+      "snippet": {
+        "publishedAt": "2022-04-20T21:55:43Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Sleeping in a BIG BUD Tractor??",
+        "description": "Nothing better than a nap in a tractor...just as long as you are a kid 😂. And Dad gets a go in the CASE IH 540 CVX Steiger! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 New Crop?!?\n1:08 Today's A Field Day\n2:41 Dog Vs. Ladder\n3:57 500 Acres Later...\n7:05 Old School Meets New School\n9:01 Same Field, Different Day\n10:41 \"It's A Sweet Machine\"\n12:24 Better Call Scott\n13:42 He Fell Asleep!\n14:24 Finishing The Field\n17:03 Time For Bed",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dnWwmfpKMW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dnWwmfpKMW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dnWwmfpKMW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dnWwmfpKMW8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dnWwmfpKMW8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dnWwmfpKMW8"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "dnWwmfpKMW8",
+        "videoPublishedAt": "2022-04-20T21:55:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8o_jL3pozgBK1lxVU4s59jA-Uos",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjlYMUNPdGtDOW9J",
+      "snippet": {
+        "publishedAt": "2022-04-16T22:38:35Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "I've Made A Mistake...",
+        "description": "Save 20% on your system and your first month is free when you  sign up for interactive monitoring. Visit  https://SimpliSafe.com/welkerfarms to learn more!\n\nPeas are going in! Unfortunately twice in the same field 😂 🤦‍♂️. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Getting Ready\n4:56 Wasted Time\n9:45 Planning Ahead",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9X1COtkC9oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9X1COtkC9oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9X1COtkC9oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9X1COtkC9oI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9X1COtkC9oI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9X1COtkC9oI"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "9X1COtkC9oI",
+        "videoPublishedAt": "2022-04-16T22:38:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9CRlDRrqlPhMJv4UYI-aj2qQRww",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmFOOVQzRGE2cC0w",
+      "snippet": {
+        "publishedAt": "2022-04-13T22:05:23Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Why Is LegArms Digging A MASSIVE Hole?!?",
+        "description": "A day Leg Arms has been dreaming of. House build begins! \n\nCheck out more here! https://youtube.com/c/WideOpenAcres \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Area Planning\n2:30 Basement Dig\n7:19 Building Ramp\n8:33 What's Left?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aN9T3Da6p-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aN9T3Da6p-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aN9T3Da6p-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aN9T3Da6p-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aN9T3Da6p-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aN9T3Da6p-0"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "aN9T3Da6p-0",
+        "videoPublishedAt": "2022-04-13T22:05:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L0FtutjF0o0V9g-bc7eF1CaJgvA",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnhoWGxfb3B4UHlV",
+      "snippet": {
+        "publishedAt": "2022-04-10T22:17:31Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "We're FINALLY In The FIELD!!!",
+        "description": "First day of seeding 2022! Yellow peas go in first! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Smelly Situation\n2:31 600/50 Startup\n3:50 Hydraulic Pumps\n4:52 Unleash The 525!\n6:00 Final Adjustments\n6:54 Heading Out\n8:26 Having Issues\n9:42 Sunset Seeding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xhXl_opxPyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xhXl_opxPyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhXl_opxPyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xhXl_opxPyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xhXl_opxPyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xhXl_opxPyU"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "xhXl_opxPyU",
+        "videoPublishedAt": "2022-04-10T22:17:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M3Qs3Sc2KY3WV37Ci37obTHdhNk",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmVfSlBWUlVIdFhj",
+      "snippet": {
+        "publishedAt": "2022-04-07T23:57:15Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "LOOK what just ROLLED in!!",
+        "description": "5 years running a 50ft Mandako land roller and we've had great success. Why not try out an 85ft one? \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Special Delivery\n2:01 85ft Mandako\n4:06 Big Bud Toolbar\n4:49 Prepping Peas\n6:34 Thinking Ahead\n9:04 Custom Screens\n10:43 Barley Cleaner?!?\n14:36 Loading Finally",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e_JPVRUHtXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e_JPVRUHtXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e_JPVRUHtXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e_JPVRUHtXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e_JPVRUHtXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e_JPVRUHtXc"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "e_JPVRUHtXc",
+        "videoPublishedAt": "2022-04-07T23:57:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mKpUHI-xc8S1pX-lJnDZRIuLedU",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnpJYWliVkFWTmgw",
+      "snippet": {
+        "publishedAt": "2022-04-04T23:52:32Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Are you READY to PULL??",
+        "description": "Back out of the shop the 600/50 is ready to pull! Now to get this air drill finished. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 New Drone Test\n0:34 Seat Tray Reveal\n1:58 Moving Toolbars\n2:58 Big Bud Awakens\n4:50 Intelligent Ag\n6:12 Toolbar Rods\n6:44 Tapping Roll Pins\n7:59 Time To Retire\n9:50 Swapping Parts\n11:17 Different Tires\n13:49 Putting It Together\n15:41 Special Delivery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIaibVAVNh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIaibVAVNh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIaibVAVNh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zIaibVAVNh0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zIaibVAVNh0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zIaibVAVNh0"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "zIaibVAVNh0",
+        "videoPublishedAt": "2022-04-04T23:52:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RWFLS2Q9TAkRocsyO7zBK-cKmtY",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkRpRFMwNWptME5R",
+      "snippet": {
+        "publishedAt": "2022-04-02T22:09:48Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Big Drill for...wait a minute...Big Grill??",
+        "description": "Last fall we picked up a lightly used 70ft flex hoe tool bar that was too good of deal to pass up. Only problem is it is setup to pull a cart, not be pulled by the cart. So we need to convert it over to a tow-between. Lots to get done this week as seeding is just around the corner. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 New Arrival\n0:58 Oil Life-Hack\n3:35 Moving Air Drills\n5:50 Same Steiger?!?\n8:54 Toolbar Prep\n10:58 Parts Salvaging\n12:52 What's Next?\n13:55 K-Cups & Shirts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DiDS05jm0NQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DiDS05jm0NQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DiDS05jm0NQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DiDS05jm0NQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DiDS05jm0NQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DiDS05jm0NQ"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "DiDS05jm0NQ",
+        "videoPublishedAt": "2022-04-02T22:09:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Eti6cmGvOO2-dbOhBfLTR5kkGU",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmFfMllZcThKUzBn",
+      "snippet": {
+        "publishedAt": "2022-04-02T02:33:04Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "🔴LIVE! BIG BUD 600/50 Seeding Peas!",
+        "description": "-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a_2YYq8JS0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a_2YYq8JS0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a_2YYq8JS0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a_2YYq8JS0g"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "a_2YYq8JS0g",
+        "videoPublishedAt": "2022-04-02T02:33:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PehtLbLrQhnp7eKq4ma7IoKtB4w",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmVRcVp6QjQycHNj",
+      "snippet": {
+        "publishedAt": "2022-03-29T22:29:43Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "These ENGINEERS Were On A Whole 'Nother Level!",
+        "description": "Leg Arms doing his thing making, modifying, fixing, fabricating! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 All-New Pumps\n3:08 Custom Chairs\n7:41 It Doesn't Fit!\n11:24 Special Delivery\n13:01 DIY Gasket",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQqZzB42psc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQqZzB42psc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQqZzB42psc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQqZzB42psc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eQqZzB42psc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eQqZzB42psc"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "eQqZzB42psc",
+        "videoPublishedAt": "2022-03-29T22:29:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mz9SvFnGVkS_2DMpE_iCUM_RVvk",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjhYOXh6bng4V1Zv",
+      "snippet": {
+        "publishedAt": "2022-03-26T23:33:01Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Sketchy! These truck hinges are a HAZARD! Fabbing new ones!",
+        "description": "These old farm trucks were way overdue! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Tandem Startup\n1:14 Removing Joints\n3:50 Fabbing New Hinges\n6:34 Putting It Together\n8:46 Does It Work?\n9:38 One More Truck\n11:48 Looking Good!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8X9xznx8WVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8X9xznx8WVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8X9xznx8WVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8X9xznx8WVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8X9xznx8WVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8X9xznx8WVo"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "8X9xznx8WVo",
+        "videoPublishedAt": "2022-03-26T23:33:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zi_froTHOaZpP6lUiN5-hJNC7pU",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmFuRUJGSlBvVnBr",
+      "snippet": {
+        "publishedAt": "2022-03-23T01:10:46Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "This is why we’re REMOVING the tracks",
+        "description": "Installing different tracks from Global Track Warehouse on the TV380 plus Dad talks popcorn! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 C-Lug Complaints\n4:02 Swapping Tracks\n9:50 Z-Lug Impressions\n12:23 Commodity Classic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/anEBFJPoVpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/anEBFJPoVpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/anEBFJPoVpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "anEBFJPoVpk"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "anEBFJPoVpk",
+        "videoPublishedAt": "2022-03-23T01:10:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T-2UzZnHB876yMeAYwxyRdgSX1g",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLnJXbnlnSDYza3Fr",
+      "snippet": {
+        "publishedAt": "2022-03-19T21:29:26Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "You're seriously putting that in the BIG BUD?!?",
+        "description": "Save 20% on your system and your first month is free when you  sign up for interactive monitoring. Visit https://simplisafe.com/WelkerFarms to learn more! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Day 1 - Air Compressor\n6:54 Day 2 - Driveline & Shaft\n12:45 Day 3 - Pea Cleaner Update\n15:33 Day 4 - New Seal & Chairs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWnygH63kqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWnygH63kqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWnygH63kqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rWnygH63kqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rWnygH63kqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rWnygH63kqk"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "rWnygH63kqk",
+        "videoPublishedAt": "2022-03-19T21:29:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LcvAPz8dtmnopAMUmQBPbcVOVVw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmlxYnBZa2xsd3Bz",
+      "snippet": {
+        "publishedAt": "2022-03-15T23:00:53Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Rise & Shine! - BIG BUD Tractor Prep - Plant 22",
+        "description": "It's BUD time! With spring planting coming quick, we need to go through these oily old beasts and make sure they'll get the job done! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Shop Scrub Update\n1:08 Moving the Buds\n4:20 Steering Sector\n7:29 Spherical Bushing\n11:37 K-Engine Salvage\n17:08 Case-IH Chairs\n21:42 Viewer Question",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iqbpYkllwps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iqbpYkllwps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iqbpYkllwps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iqbpYkllwps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iqbpYkllwps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iqbpYkllwps"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "iqbpYkllwps",
+        "videoPublishedAt": "2022-03-15T23:00:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w8V4NxIHE4SnDs4W6OQCBjaL9ZE",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLk5CODlDQUFvWGxV",
+      "snippet": {
+        "publishedAt": "2022-03-10T17:37:53Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "LEG ARMS is at it AGAIN! 7140 Magnum keeps getting better!",
+        "description": "Ever since we first owned this tractor the loader hydraulics have never functioned correctly. Combined with leaky hydraulic remotes in the back it became clear the magnum needed some repairs. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Dismantled Cab\n5:08 Hydraulic Levers\n8:51 Arm Update & Saw Repair\n14:49 Putting It Back Together\n20:10 Startup & Oil Change\n26:48 It's Big Bud Time!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NB89CAAoXlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NB89CAAoXlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NB89CAAoXlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NB89CAAoXlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NB89CAAoXlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NB89CAAoXlU"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "NB89CAAoXlU",
+        "videoPublishedAt": "2022-03-10T17:37:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cWRb9AIw83fuVBBxEtLPa6_QqBk",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkR3WVdiU3c4aVJj",
+      "snippet": {
+        "publishedAt": "2022-03-02T23:31:41Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "MOMENT of TRUTH! - Pea Cleaner Reveal",
+        "description": "Here we go! Let's fire it up and see if all that work paid off. Oh and then there is that little part about Nick hurting hinself. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Bring It Out!\n5:25 Get the Trucks\n9:07 Moment of Truth\n13:34 Problem Solving\n18:05 Final Test\n21:51 Weight Accident",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DwYWbSw8iRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DwYWbSw8iRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwYWbSw8iRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DwYWbSw8iRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DwYWbSw8iRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DwYWbSw8iRc"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "DwYWbSw8iRc",
+        "videoPublishedAt": "2022-03-02T23:31:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cLLGOcu2zSWAfcsIgE9P-SBlOCQ",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLi1zSkdrOG5qZ1hz",
+      "snippet": {
+        "publishedAt": "2022-02-25T20:12:52Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "California Fun with Millennial Farmer, Trevor Bales, MPL Randy & CASE IH!",
+        "description": "Made it to California where we met amazing fans and saw tremendous machines. Ran into Trevor Bales, Millennial Farmer, and Master Pipe Layer Randy! Going to need a few weeks to recover from that...\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Just Arrived\n2:20 Zach & Trevor\n6:04 Case IH Booth\n9:52 Check These Out!\n11:49 Wrapping It Up",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-sJGk8njgXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-sJGk8njgXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-sJGk8njgXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-sJGk8njgXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-sJGk8njgXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-sJGk8njgXs"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "-sJGk8njgXs",
+        "videoPublishedAt": "2022-02-25T20:12:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RFINFTw1_LBlMZW0gFUYg0bTReU",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkM0Vk9oZTFrZGI4",
+      "snippet": {
+        "publishedAt": "2022-02-23T16:53:01Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Fab Projects Approaching The Finish Line!",
+        "description": "Save 20% on your SimpliSafe SECURITY system when you sign up  for an Interactive Monitoring plan and get your first month  free. VISIT https://SimpliSafe.com/WELKERFARMS to learn more!\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Day 1 - Mounting the Augers\n6:32 Day 2 - Exterior Upgrades\n14:40 Day 3 - Final Part Arrived!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4VOhe1kdb8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4VOhe1kdb8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4VOhe1kdb8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C4VOhe1kdb8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C4VOhe1kdb8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C4VOhe1kdb8"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "C4VOhe1kdb8",
+        "videoPublishedAt": "2022-02-23T16:53:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xjj_NYsUOWF2zlPm-1Htm77QSlI",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjdyNXA1d3RCWW9V",
+      "snippet": {
+        "publishedAt": "2022-02-18T21:59:22Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Yep, a FAST to SLOW us down! - Pea Cleaner Part 5",
+        "description": "Almost finished with this cleaner, few more additions and adjustments and it'll be ready for testing! We would have finished this by now but Tony Fast made a surprise visit which slowed us down! about 15 minutes...😂 in all seriousness it was good to see him and we're excited to see if this machine works.\n\nTony Fast http://youtube.com/fastagmontana\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Special Delivery\n0:48 Load Center Setup\n9:11 More Augers & Tests\n10:40 Wiring End-Results\n13:31 Nylon Flighting Retrofit\n15:00 Tony Arrives\n19:10 Back To Work\n\nLocal Elevator by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7r5p5wtBYoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7r5p5wtBYoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7r5p5wtBYoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7r5p5wtBYoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7r5p5wtBYoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7r5p5wtBYoU"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "7r5p5wtBYoU",
+        "videoPublishedAt": "2022-02-18T21:59:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JF2W8bjwJG-PXpafnmFR0pxjz0s",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLlVucGNlYWNteGtF",
+      "snippet": {
+        "publishedAt": "2022-02-14T21:00:25Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "FARMING is DANGEROUS! - Grain Bin Safety Week",
+        "description": "The agriculture sector is the most dangerous in the USA, according to the U.S. Bureau of Labor Statistics. \n\nOne of the leading reasons for this is grain bin accidents. Partnering with Nationwide our goal is to bring awareness to grain bin safety.\n\nBetter equip yourself with safety knowledge by going to https://www.mynsightonline.com/articles/grain-bin-safety \n\n#sponsored #grainbinsafetyweek #Nationwide #SheKnows",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UnpceacmxkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UnpceacmxkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UnpceacmxkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UnpceacmxkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UnpceacmxkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UnpceacmxkE"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "UnpceacmxkE",
+        "videoPublishedAt": "2022-02-14T21:00:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9QYEGB_NchN_Ps7E4y2xyUJQ6RA",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmJ4a0JSV1FJcnlV",
+      "snippet": {
+        "publishedAt": "2022-02-11T16:06:29Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "We're Building It! - Pea Cleaner Part 4",
+        "description": "Part 4 of fabbing up the pea cleaner! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 How Scott Started\n3:52 Welding Montage\n6:24 Moment of Truth\n7:22 Made from Scratch\n11:17 Attaching an Auger\n15:46 \"Ye, Much Space\"\n17:56 Magnum Pin\n21:25 Thinking Out Loud\n24:00 Last of the Repairs\n26:39 What's Next?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bxkBRWQIryU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bxkBRWQIryU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bxkBRWQIryU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bxkBRWQIryU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bxkBRWQIryU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bxkBRWQIryU"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "bxkBRWQIryU",
+        "videoPublishedAt": "2022-02-11T16:06:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FhrteLXpzLQeoPJujf16YmuUGTQ",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLlNOU3ZtWDlOclRZ",
+      "snippet": {
+        "publishedAt": "2022-02-06T17:16:29Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Scrap Yard Find & It's Perfect! - Pea Cleaner Part 3",
+        "description": "Sometimes a scrap yard pays off! Leg Arms doing what he does best! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Fabricated Coffee\n1:56 Intro\n3:11 Look What We Found!\n5:20 Will This Fit?!?\n9:20 What's Inside a Gearbox?\n12:49 Flighting and Fabbing\n18:11 The Cleaner so Far...\n21:31 Finishing Touches",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNSvmX9NrTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNSvmX9NrTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNSvmX9NrTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SNSvmX9NrTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SNSvmX9NrTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SNSvmX9NrTY"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "SNSvmX9NrTY",
+        "videoPublishedAt": "2022-02-06T17:16:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r11Ngwn-G2mmXB96F5G2ZHwxQTw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLlpmLWNDM2hObjBv",
+      "snippet": {
+        "publishedAt": "2022-02-06T00:35:38Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "🔴LIVE! Shop Madness!",
+        "description": "-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nhttps://www.instagram.com/unbe_levi_able/\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zf-cC3hNn0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zf-cC3hNn0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zf-cC3hNn0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zf-cC3hNn0o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zf-cC3hNn0o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zf-cC3hNn0o"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "Zf-cC3hNn0o",
+        "videoPublishedAt": "2022-02-06T00:35:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iYdoxPCJEGeF4laAzy8LyoGGEtA",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjFkZVV6RVExQmYw",
+      "snippet": {
+        "publishedAt": "2022-01-29T17:11:34Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "It DROPPED once, we're NOT dropping it AGAIN!",
+        "description": "New winch, new cable... Let's make a new hopper bottom bin! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Cinematic Intro\n1:50 Enter Big Bud!\n4:14 Tires and C17's\n7:54 Hopper Liftoff!\n10:13 Cinematic Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1deUzEQ1Bf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1deUzEQ1Bf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1deUzEQ1Bf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1deUzEQ1Bf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1deUzEQ1Bf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1deUzEQ1Bf0"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "1deUzEQ1Bf0",
+        "videoPublishedAt": "2022-01-29T17:11:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wCbL-DzonQeXMcYSveeRENMSycw",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjFMVmRwT3pYNkhJ",
+      "snippet": {
+        "publishedAt": "2022-01-26T18:59:16Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "We've Got BINS With BRAINS! 🧠",
+        "description": "Our grain bins are connected to the internet, and it's sweet! \n\nAGI SureTrack: https://www.agisuretrack.com/\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Cinematic Intro\n1:36 SureTrack Overview\n7:52 Back to Hauling\n14:47 Done Already?!?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LVdpOzX6HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LVdpOzX6HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LVdpOzX6HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LVdpOzX6HI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LVdpOzX6HI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1LVdpOzX6HI"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "1LVdpOzX6HI",
+        "videoPublishedAt": "2022-01-26T18:59:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kO7eY4ZQJQjWsI15SwEPnQCHNGk",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkZRdXNFNEh4ZGhF",
+      "snippet": {
+        "publishedAt": "2022-01-23T20:37:45Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Cold-Start KICKSTART Back Into ACTION!",
+        "description": "It's time to cash in on all the work from last season. Fire up the trucks and haul some grain! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Intro\n2:20 Red Peterbilt\n3:36 To The Binsite\n5:02 Blue Peterbilt\n7:58 Hauling Begins\n10:48 International\n15:28 Shutdown",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQusE4HxdhE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQusE4HxdhE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQusE4HxdhE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FQusE4HxdhE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FQusE4HxdhE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FQusE4HxdhE"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "FQusE4HxdhE",
+        "videoPublishedAt": "2022-01-23T20:37:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bxclI6pA5MmZKvQlE04zwZZaKEM",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLkpjS3Zjc2ZkeFo0",
+      "snippet": {
+        "publishedAt": "2022-01-18T17:15:45Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "BUY it??? Nah BUILD it!!! | Rustic Coffee Table",
+        "description": "Dad fab time and magnum repairs continue! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00 Buy or Build?!?\n3:22 Bushing Replacement\n7:00 Finishing Tabletops\n11:30 Seal the Deal\n17:44 Leg to Stand on\n21:45 Tire Installation\n24:11 Hire a Pro!\n25:04 Special Delivery\n26:30 Rustic Table Reveal",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JcKvcsfdxZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JcKvcsfdxZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JcKvcsfdxZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JcKvcsfdxZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JcKvcsfdxZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JcKvcsfdxZ4"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "JcKvcsfdxZ4",
+        "videoPublishedAt": "2022-01-18T17:15:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vqVBI_p_r5FTYFMC-FWmCrLqHcg",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmZtTm1SQnh4UU9J",
+      "snippet": {
+        "publishedAt": "2022-01-16T07:57:31Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Legend Reborn",
+        "description": "From Part 5 of the Welker International 9370 Restoration Series",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fmNmRBxxQOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fmNmRBxxQOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fmNmRBxxQOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fmNmRBxxQOI"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "fmNmRBxxQOI",
+        "videoPublishedAt": "2022-01-16T07:57:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Dgu2o_yNhThDsmLD6i_OktrgCIE",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLmZid2xQbHlIUHdr",
+      "snippet": {
+        "publishedAt": "2022-01-14T15:55:25Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "Model To Masterpiece - Pea Cleaner Part 2",
+        "description": "Save 20% on your SimpliSafe security system and your first month is free when you sign up for Interactive Monitoring.\r\nVisit https://SimpliSafe.com/WELKERFARMS to learn more!\n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor video editing, questions, or feedback:\nlevibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474\n\n0:00-3:37 Cardboard Prototype\n3:38-7:31 Fabbing Begins\n7:32-10:08 Special Offer\n10:09-15:17 More Fabbing\n15:18-18:09 Gate Overview\n18:10-19:20 Initial Testing\n19:21-20:50 We Need Metal\n20:51-23:01 Going With The Flow\n23:02-26:24 Finishing Touches",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbwlPlyHPwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbwlPlyHPwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbwlPlyHPwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fbwlPlyHPwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fbwlPlyHPwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fbwlPlyHPwk"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "fbwlPlyHPwk",
+        "videoPublishedAt": "2022-01-14T15:55:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EVRPB-aQ0OtGpBGY393BJuqQPWk",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLk5MaUxjOGpyd1pj",
+      "snippet": {
+        "publishedAt": "2022-01-09T01:24:12Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "BIG UPGRADES for the CLEANER! - Pea Cleaner Part 1",
+        "description": "Big upgrades coming for our pea cleaner! \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor business inquiries or feedback: levibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nFOLLOW ON TIKTOK: https://www.tiktok.com/@welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NLiLc8jrwZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NLiLc8jrwZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NLiLc8jrwZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NLiLc8jrwZc"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "NLiLc8jrwZc",
+        "videoPublishedAt": "2022-01-09T01:24:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s35WaOj1UA8vWMQUapyIHBLD2R4",
+      "id": "VVV0S1VXOExKSzJFdjhoVXk5WkdfUFBBLjhfZGsxZGt6WUpZ",
+      "snippet": {
+        "publishedAt": "2022-01-01T17:41:10Z",
+        "channelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+        "title": "We beat Covid - Let's finish fixing the BIG BUD",
+        "description": "Finally getting this tractor back together again. It has been a few weeks due to sickness and holidays but we finally wrapped it up. \n\n-----------------------------------------------\n►SPECIAL THANKS TO OUR CHANNEL PARTNER CASE IH!\n--------------\nhttps://www.caseih.com/northamerica/en-us/home\n\n------------------------------------------------\n►HATS, SHIRTS & MORE? CLICK HERE!\n--------------\nhttp://www.farmfocused.com/welker-farms/\n\n------------------------------------------------\n► EDITED BY LEVI BYERS\nFor business inquiries or feedback: levibyersdude@gmail.com\n--------------\n\n-----------------------------------------------\n►WANT MORE WELKER FARMS?\n--------------\nJOIN US ON PATREON: https://www.patreon.com/welkerfarmsinc\nFOLLOW ON INSTAGRAM: https://www.instagram.com/welkerfarmsinc\nFOLLOW ON FACEBOOK: https://www.facebook.com/Welkerfarmsinc\nJOIN ON DISCORD: https://discord.gg/UznVWu9\n\n-----------------------------------------------\n►SEND US MAIL\n--------------\nWelker Farms \nP. O. BOX 771 Shelby Montana 59474",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_dk1dkzYJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_dk1dkzYJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_dk1dkzYJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8_dk1dkzYJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8_dk1dkzYJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Welker Farms",
+        "playlistId": "UUtKUW8LJK2Ev8hUy9ZG_PPA",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8_dk1dkzYJY"
+        },
+        "videoOwnerChannelTitle": "Welker Farms",
+        "videoOwnerChannelId": "UCtKUW8LJK2Ev8hUy9ZG_PPA"
+      },
+      "contentDetails": {
+        "videoId": "8_dk1dkzYJY",
+        "videoPublishedAt": "2022-01-01T17:41:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 553,
+    "resultsPerPage": 50
+  }
+}
