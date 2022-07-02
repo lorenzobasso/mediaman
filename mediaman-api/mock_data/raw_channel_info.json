@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "OiVezlR-zRNdC_JNU8VCj5MANI8",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "7GIZNJqRCVfTz-8f_z2JY0E4l2A",
+      "id": "UCtKUW8LJK2Ev8hUy9ZG_PPA",
+      "snippet": {
+        "title": "Welker Farms",
+        "description": "Farming is AWESOME!! Seriously...Farming is AMAZING! We make food for MILLIONS! How cool is that!! Come join us as we tell our STORY of FARMING in the 21st Century!\n\nWelker Farms is located in North Central Montana and has been in the family since the homestead of 1912. Third generation farmer, Bob Welker, along with his two sons, Nick and Scott, strive to carry on the family farm legacy. Welker Farms Inc has become a common name throughout the agriculture world by means of popular YouTube videos from our channel. \n\nUltimately we owe everything to our Lord and Savior Jesus Christ.\n\nCheck out our new welkerfarmsinc.com!",
+        "customUrl": "welkerfarmsinc",
+        "publishedAt": "2011-06-29T23:37:03Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLTnuCVtWdxhpu5TDwHy8Dp2wuOEhATsqHfWK8TzAg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLTnuCVtWdxhpu5TDwHy8Dp2wuOEhATsqHfWK8TzAg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AKedOLTnuCVtWdxhpu5TDwHy8Dp2wuOEhATsqHfWK8TzAg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Welker Farms",
+          "description": "Farming is AWESOME!! Seriously...Farming is AMAZING! We make food for MILLIONS! How cool is that!! Come join us as we tell our STORY of FARMING in the 21st Century!\n\nWelker Farms is located in North Central Montana and has been in the family since the homestead of 1912. Third generation farmer, Bob Welker, along with his two sons, Nick and Scott, strive to carry on the family farm legacy. Welker Farms Inc has become a common name throughout the agriculture world by means of popular YouTube videos from our channel. \n\nUltimately we owe everything to our Lord and Savior Jesus Christ.\n\nCheck out our new welkerfarmsinc.com!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUtKUW8LJK2Ev8hUy9ZG_PPA"
+        }
+      },
+      "statistics": {
+        "viewCount": "132193234",
+        "subscriberCount": "537000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "553"
+      },
+      "topicDetails": {
+        "topicIds": ["/m/07c1v", "/m/07yv9", "/m/019_rr", "/m/01k8wb"],
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology",
+          "https://en.wikipedia.org/wiki/Vehicle",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public",
+        "isLinked": true,
+        "longUploadsStatus": "longUploadsUnspecified",
+        "madeForKids": false
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "Welker Farms",
+          "description": "Farming is AWESOME!! Seriously...Farming is AMAZING! We make food for MILLIONS! How cool is that!! Come join us as we tell our STORY of FARMING in the 21st Century!\n\nWelker Farms is located in North Central Montana and has been in the family since the homestead of 1912. Third generation farmer, Bob Welker, along with his two sons, Nick and Scott, strive to carry on the family farm legacy. Welker Farms Inc has become a common name throughout the agriculture world by means of popular YouTube videos from our channel. \n\nUltimately we owe everything to our Lord and Savior Jesus Christ.\n\nCheck out our new welkerfarmsinc.com!",
+          "keywords": "Welker Big Bud Walker Farms MN Millennial Farmer",
+          "trackingAnalyticsAccountId": "UA-135992451-1",
+          "unsubscribedTrailer": "a3hLYFc_9ik",
+          "country": "US"
+        },
+        "image": {
+          "bannerExternalUrl": "https://yt3.ggpht.com/6bdF_mPn-gRwTLsE4p1DqByFjZk1nn_PdWhVJt2H2bwkaI9VtQ6CLUmVGTq8t5m_cjupfNrPxg"
+        }
+      },
+      "contentOwnerDetails": {}
+    }
+  ]
+}

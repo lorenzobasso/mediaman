@@ -11,6 +11,7 @@ SQLAlchemy = "1.4.35"
 sqlmodel = "^0.0.6"
 uvicorn = "^0.18.2"
 pytest-watch = "^4.2.0"
+google-api-python-client = "^2.52.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.6.0"
