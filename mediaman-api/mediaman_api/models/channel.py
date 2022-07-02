@@ -69,8 +69,8 @@ def get(db: Session, id: str):
 
 def put(db: Session, channel: Channel):
     db.add(channel)
-    db.refresh(channel)
     db.commit()
+    db.refresh(channel)
 
     return channel
 
@@ -83,7 +83,6 @@ def patch(db: Session, new_data: Channel):
     else:
         new_data_dict = new_data.dict(exclude_defaults=True)
         for attr, val in new_data_dict.items():
-            print(attr)
             setattr(db_channel, attr, val)
 
     return put(db, db_channel)

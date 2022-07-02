@@ -27,3 +27,22 @@ def search_youtube_channel_by_id(
     db_channel = channel.patch(db, new_channel)
 
     return db_channel
+
+
+@router.patch("/follow-channel", response_model=bool)
+def search_youtube_channel_by_id(
+    id: str = "UCtKUW8LJK2Ev8hUy9ZG_PPA", db: Session = Depends(db_session)
+):
+    id = id.strip()
+    if not id:
+        raise HTTPException(status_code=400, detail="You need to specify a channel id")
+
+    db_channel = channel.get(db, id)
+    if not db_channel:
+        raise HTTPException(status_code=404, detail=f"No channel with id={id}")
+
+    db_channel.following = not db_channel.following
+
+    channel.put(db, db_channel)
+
+    return db_channel.following
