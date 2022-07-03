@@ -30,6 +30,10 @@ class ChannelThumbnail(SQLModel, table=True):
     channel: Channel = Relationship(back_populates="thumbnails")
 
 
+class ChannelResponse(Channel):
+    avatars: List[ChannelThumbnail]
+
+
 def parse_thumbnail(size, thumbnail) -> ChannelThumbnail:
     return ChannelThumbnail(
         size=size,
