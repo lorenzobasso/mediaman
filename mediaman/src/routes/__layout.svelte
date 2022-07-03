@@ -50,4 +50,9 @@
 	a {
 		text-decoration: none;
 	}
+
+	main {
+		margin: 1rem 0;
+		height: calc(100vh - 2rem - var(--header-height));
+	}
 </style>

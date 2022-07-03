@@ -4,7 +4,7 @@
 	import { prettyNum } from '$lib/utils';
 	import { onMount } from 'svelte';
 
-	let id: string = 'UCtKUW8LJK2Ev8hUy9ZG_PPA';
+	let id: string = '';
 	let channel: Channel | null = null;
 
 	const handleSearch = async () => {
@@ -18,8 +18,6 @@
 			channel.following = result.data;
 		}
 	};
-
-	onMount(() => handleSearch());
 </script>
 
 <article>
@@ -59,11 +57,6 @@
 </article>
 
 <style>
-	article {
-		margin: 1rem 0;
-		height: calc(100vh - 2rem - var(--header-height));
-	}
-
 	.input-group {
 		display: flex;
 		justify-content: center;

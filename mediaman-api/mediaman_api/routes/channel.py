@@ -1,4 +1,4 @@
-from typing import Union
+from typing import List, Union
 from fastapi import APIRouter, Depends, HTTPException
 from sqlmodel import Session
 
@@ -40,11 +40,8 @@ def search_youtube_channel_by_id(
         raise HTTPException(status_code=404, detail=f"No channel with id={id}")
 
     db_channel = channel.patch(db, new_channel)
-    ret_channel = channel.ChannelResponse(
-        **db_channel.dict(), avatars=db_channel.thumbnails
-    )
 
-    return ret_channel
+    return channel.parse_response(db_channel)
 
 
 @router.patch("/follow-channel", response_model=bool)
@@ -94,3 +91,10 @@ def update_channel_library(
     video.put_all(db, new_videos)
 
     return len(new_videos)
+
+
+@router.get("/channels", response_model=List[channel.ChannelResponse])
+def get_followed_channels(db: Session = Depends(db_session)):
+    channels = channel.get_followed(db)
+
+    return [channel.parse_response(ch) for ch in channels]

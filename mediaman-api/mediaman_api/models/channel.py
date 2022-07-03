@@ -1,5 +1,5 @@
 from typing import Dict, List, Optional
-from sqlmodel import SQLModel, Field, Relationship, Session
+from sqlmodel import SQLModel, Field, Relationship, Session, select
 
 
 class Channel(SQLModel, table=True):
@@ -67,8 +67,18 @@ def parse(channel) -> Channel:
     )
 
 
+def parse_response(channel: Channel) -> ChannelResponse:
+    return ChannelResponse(**channel.dict(), avatars=channel.thumbnails)
+
+
 def get(db: Session, id: str):
     return db.get(Channel, id)
+
+
+def get_followed(db: Session):
+    query = select(Channel).where(Channel.following)
+
+    return db.exec(query).all()
 
 
 def put(db: Session, channel: Channel):
